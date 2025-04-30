@@ -1,0 +1,5 @@
+# 🔒 Environment Variables (Sensitive data like API keys)
+.env
+
+# 📦 Dependencies (Don't push `node_modules`)
+node_modules/
